@@ -21,6 +21,12 @@ I have made a grid-solving robot that can find its path in a grid and go to the 
 
 https://github.com/MalakaSupun/Grid-solving-robot-Arduino-/assets/71941117/cb175622-6496-44dc-b00f-223b6e9fc00d
 
+
+### Sensors Used:
+
+<p align="justify">
+In this project, I used 8 IR sensors to help the robot navigate the grid. These sensors are crucial for detecting the lines on the grid and ensuring the robot stays on course. The IR sensors work by emitting infrared light and detecting the reflection from the surface. When the sensor detects a line, it sends a signal to the Arduino, which then adjusts the robot's path accordingly. This setup allows the robot to follow the grid lines accurately and reach its programmed destination efficiently.
+
 #
 ### Images:
 
