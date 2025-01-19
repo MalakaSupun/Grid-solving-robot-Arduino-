@@ -1,4 +1,14 @@
-# Grid-solving-robot-Arduino-
+# 
+<p align="center">
+    <img width="1150" src="Repo_Images/Image_01.png" alt="Logo_01">
+</p>
+
+#
+<h1 align="center">
+
+Grid-solving-robot-Arduino
+</h1>
+
 This is a project I have done in my 1st year in university.
 
 https://github.com/MalakaSupun/Grid-solving-robot-Arduino-/assets/71941117/cb175622-6496-44dc-b00f-223b6e9fc00d
